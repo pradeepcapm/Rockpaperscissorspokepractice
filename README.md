@@ -66,14 +66,6 @@ def rpsls(player_choice):
     else:
         print "Computer wins!"
         
-        
-        
-    
-        
-  
-
-    
-# test your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
 rpsls("rock")
 rpsls("Spock")
 rpsls("paper")
